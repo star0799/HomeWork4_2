@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeWork4_2</string>
+    <string name="btStart">面對BMI現實</string>
+    <string name="btEnd">結束去運動</string>
+    <string name="tvHeight">身高</string>
+    <string name="tvWeight">體重</string>
+    <string name="btSubmit">確定</string>
+    <string name="btClear">清除</string>
+    <string name="btBack">返回</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
